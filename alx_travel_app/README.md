@@ -1,0 +1,5 @@
+celery
+django
+django_restframework
+django_cors_headers
+dfr_yasg
